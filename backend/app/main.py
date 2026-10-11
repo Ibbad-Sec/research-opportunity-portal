@@ -10,7 +10,7 @@ from sqlalchemy import text
 from app.core.config import settings
 from app.core.database import engine
 from app.routes import opportunity_router 
-
+from app.middleware import register_exception_handlers
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -45,6 +45,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+register_exception_handlers(app)
 app.include_router(opportunity_router)
 
 @app.get("/")
