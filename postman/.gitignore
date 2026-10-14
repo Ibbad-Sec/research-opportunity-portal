@@ -1,0 +1,3 @@
+# Ignore Postman internal sync files — we only keep the exported JSON
+.postman/
+postman/
