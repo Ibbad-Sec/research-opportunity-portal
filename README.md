@@ -256,7 +256,7 @@ The `postman/` folder contains an exported collection with **10 pre-configured r
 ## 🔗 Links
 
 - **GitHub Repository:** [Ibbad-Sec/research-opportunity-portal](https://github.com/Ibbad-Sec/research-opportunity-portal)
-- **Demo Video:** *(link to be added)*
+- **Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/1jh1_RwkF_j7Sta5Dew2LOtchmhXqJ038/view?usp=drive_link)
 
 ---
 
@@ -264,7 +264,7 @@ The `postman/` folder contains an exported collection with **10 pre-configured r
 
 - **Developer:** Ibbad Ur Rehman ([@Ibbad-Sec](https://github.com/Ibbad-Sec))
 - **Course:** *(computer networks)*
-- **Instructor:** *(Khizar Mukhtiar)*
+- **Instructor:** *(Mr Khizar Mukhtiar)*
 - **Institution:** *(Fast Nuces)*
 
 ---
